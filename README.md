@@ -11,3 +11,4 @@ Incluir um Readme descritivo do sistema implementado.
 Incluir, no Readme, o link para o vídeo demonstrativo da execução do programa no AWS.
 
 Todo o código demais artefatos, incluindo o (link para o) vídeo demonstrativo, devem ser entregues via GitHub Classroom. 
+https://youtu.be/DiB-5ZA8fbQ
